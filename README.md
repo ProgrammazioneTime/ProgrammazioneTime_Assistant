@@ -1,4 +1,4 @@
-# ProgrammazioneTime_Assistant
+# ProgrammazioneTime_Assistant ~ Versione 1.0.0
 "Assistente" per Windows in Batch.
 
 Questo programmino in batch è relativo al corso Batch:
